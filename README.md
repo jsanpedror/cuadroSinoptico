@@ -1,0 +1,2 @@
+# cuadroSinoptico
+tarea
